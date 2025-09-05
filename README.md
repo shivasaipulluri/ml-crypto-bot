@@ -23,14 +23,16 @@ It experiments with predictive modeling, scalping strategies, and risk managemen
 ---
 
 ## 📂 Repository Structure
+```text
 ml-crypto-bot/
-├── Doge&Shib.ipynb # DOGE & SHIB scalping strategy
+├── Doge&Shib.ipynb                 # DOGE & SHIB scalping strategy
 ├── model_training_checkpoints.ipynb # ML model training
-├── real_time_trading.ipynb # Live trading logic
-├── checkpoints/ # Saved models (e.g., shib_model.keras)
-├── data/ # Historical CSVs
-├── logs/ # Trade & stats logs
+├── real_time_trading.ipynb         # Live trading logic
+├── checkpoints/                    # Saved models (e.g., shib_model.keras)
+├── data/                           # Historical CSVs
+├── logs/                           # Trade & stats logs
 └── README.md
+```
 
 
 ---
